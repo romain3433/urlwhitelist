@@ -295,7 +295,7 @@
 
 #Azure portal
 @@||afd-v2.hosting.portal.azure.net^
-@@||applicationinsights.azure.com^
+@@||*.applicationinsights.azure.com^
 
 #Copilot
 @@||copilotstudio.microsoft.com^
