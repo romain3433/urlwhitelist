@@ -1,4 +1,4 @@
-//Supported hosts and ports for OneDrive
+#Supported hosts and ports for OneDrive
 @@||onedrive.com^
 @@||onedrive.live.com^
 @@||login.live.com^
@@ -55,12 +55,12 @@
 @@||*.storage.msn.com^
 @@||*.*.storage.msn.com^
 
-//Microsoft 365 Unified Domains^
+#Microsoft 365 Unified Domains^
 @@||*.usercontent.microsoft^
 @@||*.static.microsoft^
 @@||*.cloud.microsoft^
 
-//Exchange Online^
+#Exchange Online^
 @@||outlook.cloud.microsoft^
 @@||outlook.office.com^
 @@||outlook.office365.com^
@@ -71,7 +71,7 @@
 @@||*.mail.protection.outlook.com^
 @@||*.mx.microsoft^
 
-//akamai
+#akamai
 @@||*.akadns.net^
 @@||*.akam.net^
 @@||*.akamai.com^
@@ -82,7 +82,7 @@
 @@||*.edgekey.net^
 @@||*.edgesuite.net^
 
-//SharePoint Online and OneDrive for Business
+#SharePoint Online and OneDrive for Business
 @@||*.sharepoint.com^
 @@||ssw.live.com^
 @@||storage.live.com^
@@ -98,7 +98,7 @@
 @@||spoprod-a.akamaihd.net^
 @@||*.svc.ms^
 
-//Microsoft Teams^
+#Microsoft Teams^
 @@||*.lync.com^
 @@||*.teams.cloud.microsoft^
 @@||*.teams.microsoft.com^
@@ -114,7 +114,7 @@
 @@||*.skype.com^
 @@||compass-ssl.microsoft.com^
 
-//Microsoft 365 Common and Office Online^
+#Microsoft 365 Common and Office Online^
 @@||*.officeapps.live.com^
 @@||*.online.office.com^
 @@||office.live.com^
@@ -189,6 +189,7 @@
 @@||*.aadrm.com^
 @@||*.azurerms.com^
 @@||*.informationprotection.azure.com^
+@@||azure.net^
 @@||ecn.dev.virtualearth.net^
 @@||informationprotection.hosting.portal.azure.net^
 @@||*.sharepointonline.com^
@@ -286,4 +287,15 @@
 @@||cdn.uci.officeapps.live.com^
 @@||*.cloud.microsoft^
 @@||*.static.microsoft^
-@@||*.usercontent.microsoft
+@@||*.usercontent.microsoft^
+@@||self.events.data.microsoft.com^
+@@||eu-office.events.data.microsoft.com^
+@@||m365cdn.nel.measure.office.net^
+@@||emea01.safelinks.protection.outlook.com^
+
+#Azure portal
+@@||afd-v2.hosting.portal.azure.net^
+@@||applicationinsights.azure.com^
+
+#Copilot
+@@||copilotstudio.microsoft.com^
