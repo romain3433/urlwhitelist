@@ -9,8 +9,9 @@
 @@||checkip.dyndns.org^$client='192.168.178.67'
 @@||easebar.com^
 @@||hubspotusercontent-na1.net^
-@@||newrelic.com^
+@@||*.newrelic.com^
 @@||lansweeper.com^
 @@||api-eu02.central.sophos.com^
 @@||apple.com^
 @@||api.central.sophos.com^
+@@||*.teamviewer.com^
